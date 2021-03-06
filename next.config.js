@@ -1,6 +1,6 @@
 module.exports = {
     env: {
-        "BASE_URL": "http://localhost:3000",
+        "BASE_URL": "mongodb+srv://lattos:Hgbhenrique1!@cluster0.cdxkq.mongodb.net/teste?retryWrites=true&w=majority",
         "MONGODB_URL": "YOUR_MONGODB_URL",
         "ACCESS_TOKEN_SECRET": "YOUR_ACCESS_TOKEN_SECRET",
         "REFRESH_TOKEN_SECRET": "YOUR_REFRESH_TOKEN_SECRET",
